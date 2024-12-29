@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162866647734",
+    "project_id": "ratz-daz",
+    "storage_bucket": "ratz-daz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162866647734:android:b5688851441e4ae36f4c17",
+        "android_client_info": {
+          "package_name": "com.example.ratzdaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDve3E5rfcF9mdg5YZKNs9UhL-4r_IWG5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
